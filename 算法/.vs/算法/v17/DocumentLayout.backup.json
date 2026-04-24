@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\360MoveData\\Users\\SumeragiH\\Desktop\\\u7B97\u6CD5\\\u7B97\u6CD5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01BB3E8E-28FA-459B-87C9-0533E48308FE}|..\\\u56DE\u6587\u4E32\\\u56DE\u6587\u4E32.csproj|d:\\360movedata\\users\\sumeragih\\desktop\\\u7B97\u6CD5\\\u56DE\u6587\u4E32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4943E4-55E6-4025-904D-7DBD71441C7F}|..\\\u627E\u51FA\u5B57\u7B26\u4E32\u4E2D\u7B2C\u4E00\u4E2A\u5339\u914D\u9879\u7684\u4E0B\u6807\\\u627E\u51FA\u5B57\u7B26\u4E32\u4E2D\u7B2C\u4E00\u4E2A\u5339\u914D\u9879\u7684\u4E0B\u6807.csproj|d:\\360movedata\\users\\sumeragih\\desktop\\\u7B97\u6CD5\\\u627E\u51FA\u5B57\u7B26\u4E32\u4E2D\u7B2C\u4E00\u4E2A\u5339\u914D\u9879\u7684\u4E0B\u6807\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1924F8-0412-4767-A5D4-CDBF63A4777C}|..\\\u5408\u5E76\u4E24\u4E2A\u6709\u5E8F\u6570\u7EC4\\\u5408\u5E76\u4E24\u4E2A\u6709\u5E8F\u6570\u7EC4.csproj|d:\\360movedata\\users\\sumeragih\\desktop\\\u7B97\u6CD5\\\u5408\u5E76\u4E24\u4E2A\u6709\u5E8F\u6570\u7EC4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\360MoveData\\Users\\SumeragiH\\Desktop\\\u7B97\u6CD5\\\u56DE\u6587\u4E32\\Program.cs",
+              "RelativeDocumentMoniker": "..\\\u56DE\u6587\u4E32\\Program.cs",
+              "ToolTip": "D:\\360MoveData\\Users\\SumeragiH\\Desktop\\\u7B97\u6CD5\\\u56DE\u6587\u4E32\\Program.cs",
+              "RelativeToolTip": "..\\\u56DE\u6587\u4E32\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:01:44.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\360MoveData\\Users\\SumeragiH\\Desktop\\\u7B97\u6CD5\\\u627E\u51FA\u5B57\u7B26\u4E32\u4E2D\u7B2C\u4E00\u4E2A\u5339\u914D\u9879\u7684\u4E0B\u6807\\Program.cs",
+              "RelativeDocumentMoniker": "..\\\u627E\u51FA\u5B57\u7B26\u4E32\u4E2D\u7B2C\u4E00\u4E2A\u5339\u914D\u9879\u7684\u4E0B\u6807\\Program.cs",
+              "ToolTip": "D:\\360MoveData\\Users\\SumeragiH\\Desktop\\\u7B97\u6CD5\\\u627E\u51FA\u5B57\u7B26\u4E32\u4E2D\u7B2C\u4E00\u4E2A\u5339\u914D\u9879\u7684\u4E0B\u6807\\Program.cs",
+              "RelativeToolTip": "..\\\u627E\u51FA\u5B57\u7B26\u4E32\u4E2D\u7B2C\u4E00\u4E2A\u5339\u914D\u9879\u7684\u4E0B\u6807\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:52:15.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\360MoveData\\Users\\SumeragiH\\Desktop\\\u7B97\u6CD5\\\u5408\u5E76\u4E24\u4E2A\u6709\u5E8F\u6570\u7EC4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\\u5408\u5E76\u4E24\u4E2A\u6709\u5E8F\u6570\u7EC4\\Program.cs",
+              "ToolTip": "D:\\360MoveData\\Users\\SumeragiH\\Desktop\\\u7B97\u6CD5\\\u5408\u5E76\u4E24\u4E2A\u6709\u5E8F\u6570\u7EC4\\Program.cs",
+              "RelativeToolTip": "..\\\u5408\u5E76\u4E24\u4E2A\u6709\u5E8F\u6570\u7EC4\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:17:36.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\360MoveData\Users\SumeragiH\Desktop\算法\算法\bin\Debug\net8.0\罗马数字转整数.exe
+D:\360MoveData\Users\SumeragiH\Desktop\算法\算法\bin\Debug\net8.0\罗马数字转整数.deps.json
+D:\360MoveData\Users\SumeragiH\Desktop\算法\算法\bin\Debug\net8.0\罗马数字转整数.runtimeconfig.json
+D:\360MoveData\Users\SumeragiH\Desktop\算法\算法\bin\Debug\net8.0\罗马数字转整数.dll
+D:\360MoveData\Users\SumeragiH\Desktop\算法\算法\bin\Debug\net8.0\罗马数字转整数.pdb
+D:\360MoveData\Users\SumeragiH\Desktop\算法\算法\obj\Debug\net8.0\罗马数字转整数.GeneratedMSBuildEditorConfig.editorconfig
+D:\360MoveData\Users\SumeragiH\Desktop\算法\算法\obj\Debug\net8.0\罗马数字转整数.AssemblyInfoInputs.cache
+D:\360MoveData\Users\SumeragiH\Desktop\算法\算法\obj\Debug\net8.0\罗马数字转整数.AssemblyInfo.cs
+D:\360MoveData\Users\SumeragiH\Desktop\算法\算法\obj\Debug\net8.0\罗马数字转整数.csproj.CoreCompileInputs.cache
+D:\360MoveData\Users\SumeragiH\Desktop\算法\算法\obj\Debug\net8.0\罗马数字转整数.dll
+D:\360MoveData\Users\SumeragiH\Desktop\算法\算法\obj\Debug\net8.0\refint\罗马数字转整数.dll
+D:\360MoveData\Users\SumeragiH\Desktop\算法\算法\obj\Debug\net8.0\罗马数字转整数.pdb
+D:\360MoveData\Users\SumeragiH\Desktop\算法\算法\obj\Debug\net8.0\罗马数字转整数.genruntimeconfig.cache
+D:\360MoveData\Users\SumeragiH\Desktop\算法\算法\obj\Debug\net8.0\ref\罗马数字转整数.dll
