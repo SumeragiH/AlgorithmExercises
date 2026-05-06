@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("删除有序数组中的重复项")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bd020757a5ec36ffee29ebdaba09d3869cc669e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4180ef22088867ed73e30de8943bc8c380dd1af5")]
 [assembly: System.Reflection.AssemblyProductAttribute("删除有序数组中的重复项")]
 [assembly: System.Reflection.AssemblyTitleAttribute("删除有序数组中的重复项")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
