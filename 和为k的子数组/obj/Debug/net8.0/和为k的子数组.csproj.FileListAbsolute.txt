@@ -1,0 +1,15 @@
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\bin\Debug\net8.0\和为k的子数组.exe
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\bin\Debug\net8.0\和为k的子数组.deps.json
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\bin\Debug\net8.0\和为k的子数组.runtimeconfig.json
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\bin\Debug\net8.0\和为k的子数组.dll
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\bin\Debug\net8.0\和为k的子数组.pdb
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\obj\Debug\net8.0\和为k的子数组.GeneratedMSBuildEditorConfig.editorconfig
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\obj\Debug\net8.0\和为k的子数组.AssemblyInfoInputs.cache
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\obj\Debug\net8.0\和为k的子数组.AssemblyInfo.cs
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\obj\Debug\net8.0\和为k的子数组.csproj.CoreCompileInputs.cache
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\obj\Debug\net8.0\和为k的子数组.sourcelink.json
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\obj\Debug\net8.0\和为k的子数组.dll
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\obj\Debug\net8.0\refint\和为k的子数组.dll
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\obj\Debug\net8.0\和为k的子数组.pdb
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\obj\Debug\net8.0\和为k的子数组.genruntimeconfig.cache
+D:\360MoveData\Users\SumeragiH\Desktop\算法\和为k的子数组\obj\Debug\net8.0\ref\和为k的子数组.dll
