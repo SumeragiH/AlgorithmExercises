@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("回文数")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("滑动窗口最大值")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6155e3922f40db1f5d928d621c9fea70f7fa476c")]
-[assembly: System.Reflection.AssemblyProductAttribute("回文数")]
-[assembly: System.Reflection.AssemblyTitleAttribute("回文数")]
+[assembly: System.Reflection.AssemblyProductAttribute("滑动窗口最大值")]
+[assembly: System.Reflection.AssemblyTitleAttribute("滑动窗口最大值")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

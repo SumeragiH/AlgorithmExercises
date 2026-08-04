@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("移动零")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f53cc6dc99eebe6cdefe5e7a70478206959db226")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6155e3922f40db1f5d928d621c9fea70f7fa476c")]
 [assembly: System.Reflection.AssemblyProductAttribute("移动零")]
 [assembly: System.Reflection.AssemblyTitleAttribute("移动零")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

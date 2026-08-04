@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "找到字符串中所有字
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "和为k的子数组", "..\和为k的子数组\和为k的子数组.csproj", "{10717934-BB80-4261-A662-51FE79AA1256}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "滑动窗口最大值", "..\滑动窗口最大值\滑动窗口最大值.csproj", "{DFBF664A-044E-4BFC-87F4-697FDAFFFB03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +281,18 @@ Global
 		{10717934-BB80-4261-A662-51FE79AA1256}.Release|x64.Build.0 = Release|Any CPU
 		{10717934-BB80-4261-A662-51FE79AA1256}.Release|x86.ActiveCfg = Release|Any CPU
 		{10717934-BB80-4261-A662-51FE79AA1256}.Release|x86.Build.0 = Release|Any CPU
+		{DFBF664A-044E-4BFC-87F4-697FDAFFFB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBF664A-044E-4BFC-87F4-697FDAFFFB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBF664A-044E-4BFC-87F4-697FDAFFFB03}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DFBF664A-044E-4BFC-87F4-697FDAFFFB03}.Debug|x64.Build.0 = Debug|Any CPU
+		{DFBF664A-044E-4BFC-87F4-697FDAFFFB03}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DFBF664A-044E-4BFC-87F4-697FDAFFFB03}.Debug|x86.Build.0 = Debug|Any CPU
+		{DFBF664A-044E-4BFC-87F4-697FDAFFFB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBF664A-044E-4BFC-87F4-697FDAFFFB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBF664A-044E-4BFC-87F4-697FDAFFFB03}.Release|x64.ActiveCfg = Release|Any CPU
+		{DFBF664A-044E-4BFC-87F4-697FDAFFFB03}.Release|x64.Build.0 = Release|Any CPU
+		{DFBF664A-044E-4BFC-87F4-697FDAFFFB03}.Release|x86.ActiveCfg = Release|Any CPU
+		{DFBF664A-044E-4BFC-87F4-697FDAFFFB03}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
